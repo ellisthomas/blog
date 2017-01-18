@@ -2,8 +2,15 @@ body {
 	font-family: 'Overpass Mono';
 }
 
+header {
+	background-color: firebrick;
+	color: #fff;
+}
 
 
+footer {
+	text-align: center;
+}
 
 
 
