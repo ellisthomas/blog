@@ -1,0 +1,27 @@
+body {
+	font-family: 'Overpass Mono';
+}
+
+header {
+	background-color: firebrick;
+	color: #fff;
+}
+
+
+footer {
+	text-align: center;
+}
+
+
+
+
+
+
+.title {
+	font-size: 4em;
+	text-align: center;
+}
+
+.author {
+text-align: right;
+}
