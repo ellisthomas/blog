@@ -13,12 +13,9 @@ h1, h3, h4 {
 	font-weight: bold;
 }
 
-
 footer {
 	text-align: center;
 }
-
-
 
 #one {
 	background-color: coral;
@@ -26,7 +23,7 @@ footer {
 	font-size: 11px;
 	font-color: white;
 	line-height: 1.5em;
-	padding:; 
+	padding: 10px; 
 	border-radius: 5px 20px 5px;
 }
 
@@ -36,7 +33,7 @@ footer {
 	font-size: 15px;
 	font-color: black;
 	line-height: 2em;
-	padding:; 
+	padding: 20px; 
 	border-radius: 30px 10px;
 }
 
@@ -46,7 +43,7 @@ footer {
 	font-size: 17px;
 	font-color: darkblue;
 	line-height: 3em;
-	padding:; 
+	padding:5px 10px 10px 5px; 
 	border-radius: 50%;
 }
 
@@ -56,7 +53,7 @@ footer {
 	font-size: 14px;
 	font-color: crimson;
 	line-height: 4em;
-	padding:; 
+	padding: 15px; 
 	border-radius: 15px 30px 15px;
 }
 
@@ -66,7 +63,8 @@ footer {
 	font-size: 13px;
 	font-color: hotpink;
 	line-height:2.5em;
-	padding:;
+	padding: 10px 10px;
+	border-style: dashed;
 	border-radius: 10%; 
 }
 
