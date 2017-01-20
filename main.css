@@ -8,6 +8,11 @@ header {
 	
 }
 
+h1, h3, h4 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
 
 footer {
 	text-align: center;
@@ -19,45 +24,50 @@ footer {
 	background-color: coral;
 	font-family: Helveta, Ariral, sans-serif;
 	font-size: 11px;
-	font-color:;
-	line-height:;
+	font-color: white;
+	line-height: 1.5em;
 	padding:; 
+	border-radius: 5px 20px 5px;
 }
 
 #two {
 	background-color: lime;
-	font-family:;
-	font-size:;
-	font-color:;
-	line-height:;
+	font-family: 'Roboto', sans-serif;;
+	font-size: 15px;
+	font-color: black;
+	line-height: 2em;
 	padding:; 
+	border-radius: 30px 10px;
 }
 
 #three {
 	background-color: lightblue;
-	font-family:;
-	font-size:;
-	font-color:;
-	line-height:;
+	font-family:'Oswald', sans-serif;;
+	font-size: 17px;
+	font-color: darkblue;
+	line-height: 3em;
 	padding:; 
+	border-radius: 50%;
 }
 
 #four {
-	background-color:;
-	font-family:;
-	font-size:;
-	font-color:;
-	line-height:;
+	background-color: cornsilk;
+	font-family: 'Cormorant', serif;
+	font-size: 14px;
+	font-color: crimson;
+	line-height: 4em;
 	padding:; 
+	border-radius: 15px 30px 15px;
 }
 
 #five {
-	background-color:;
-	font-family:;
-	font-size:;
-	font-color:;
-	line-height:;
-	padding:; 
+	background-color: dodgerblue;
+	font-family:'PT Sans', sans-serif;
+	font-size: 13px;
+	font-color: hotpink;
+	line-height:2.5em;
+	padding:;
+	border-radius: 10%; 
 }
 
 .title {
