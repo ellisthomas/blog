@@ -15,8 +15,50 @@ footer {
 
 
 
+#one {
+	background-color: coral;
+	font-family: Helveta, Ariral, sans-serif;
+	font-size: 11px;
+	font-color:;
+	line-height:;
+	padding:; 
+}
 
+#two {
+	background-color: lime;
+	font-family:;
+	font-size:;
+	font-color:;
+	line-height:;
+	padding:; 
+}
 
+#three {
+	background-color: lightblue;
+	font-family:;
+	font-size:;
+	font-color:;
+	line-height:;
+	padding:; 
+}
+
+#four {
+	background-color:;
+	font-family:;
+	font-size:;
+	font-color:;
+	line-height:;
+	padding:; 
+}
+
+#five {
+	background-color:;
+	font-family:;
+	font-size:;
+	font-color:;
+	line-height:;
+	padding:; 
+}
 
 .title {
 	font-size: 4em;
