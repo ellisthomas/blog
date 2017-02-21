@@ -1,8 +1,78 @@
-li {
-	display: inline-flex;
-	align-items: flex-end;
+body {
+	font-family: 'Overpass Mono';
 }
 
-.nav {
-	position: fixed;
+header {
+	background-color: firebrick;
+	color: #fff;
+	
+}
+
+h1, h3, h4 {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+footer {
+	text-align: center;
+}
+
+#one {
+	background-color: coral;
+	font-family: Helveta, Ariral, sans-serif;
+	font-size: 11px;
+	font-color: white;
+	line-height: 1.5em;
+	padding: 10px; 
+	border-radius: 5px 20px 5px;
+}
+
+#two {
+	background-color: lime;
+	font-family: 'Roboto', sans-serif;;
+	font-size: 15px;
+	font-color: black;
+	line-height: 2em;
+	padding: 20px; 
+	border-radius: 30px 10px;
+}
+
+#three {
+	background-color: lightblue;
+	font-family:'Oswald', sans-serif;;
+	font-size: 17px;
+	font-color: darkblue;
+	line-height: 3em;
+	padding:5px 10px 10px 5px; 
+	border-radius: 50%;
+}
+
+#four {
+	background-color: cornsilk;
+	font-family: 'Cormorant', serif;
+	font-size: 14px;
+	font-color: crimson;
+	line-height: 4em;
+	padding: 15px; 
+	border-radius: 15px 30px 15px;
+}
+
+#five {
+	background-color: dodgerblue;
+	font-family:'PT Sans', sans-serif;
+	font-size: 13px;
+	font-color: hotpink;
+	line-height:2.5em;
+	padding: 10px 10px;
+	border-style: dashed;
+	border-radius: 10%; 
+}
+
+.title {
+	font-size: 4em;
+	text-align: center;
+}
+
+.author {
+text-align: right;
 }
